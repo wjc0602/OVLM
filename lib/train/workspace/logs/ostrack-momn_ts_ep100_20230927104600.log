@@ -1,0 +1,4 @@
+[train: 1, 50 / 1875] FPS: 2.0 (62.1)  ,  DataTime: 1.391 (0.010)  ,  ForwardTime: 14.697  ,  TotalTime: 16.098  ,  Loss/total: 35.28672  ,  Loss/giou: 1.14741  ,  Loss/l1: 0.27109  ,  Loss/location: 31.63645  ,  IoU: 0.08724
+[train: 1, 50 / 1875] FPS: 28.8 (61.4)  ,  DataTime: 0.581 (0.009)  ,  ForwardTime: 0.521  ,  TotalTime: 1.110  ,  Loss/total: 29.82234  ,  Loss/giou: 1.10073  ,  Loss/l1: 0.24116  ,  Loss/location: 26.41509  ,  IoU: 0.10698
+[train: 1, 100 / 1875] FPS: 30.5 (61.1)  ,  DataTime: 0.527 (0.009)  ,  ForwardTime: 0.515  ,  TotalTime: 1.051  ,  Loss/total: 19.40498  ,  Loss/giou: 1.06759  ,  Loss/l1: 0.22633  ,  Loss/location: 16.13815  ,  IoU: 0.11670
+[train: 1, 50 / 1875] FPS: 4.1 (62.3)  ,  DataTime: 0.109 (0.009)  ,  ForwardTime: 7.747  ,  TotalTime: 7.866  ,  Loss/total: 28.82575  ,  Loss/giou: 1.13337  ,  Loss/l1: 0.27669  ,  Loss/location: 25.17558  ,  IoU: 0.07397
